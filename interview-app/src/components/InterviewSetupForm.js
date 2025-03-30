@@ -242,7 +242,7 @@ export default function InterviewSetupForm({
           Interview Setup
         </h2>
         <p className="text-gray-500 mt-2">
-          Let's prepare your perfect interview
+          Let&apos;s prepare your perfect interview
         </p>
       </div>
 
